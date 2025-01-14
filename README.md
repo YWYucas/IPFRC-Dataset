@@ -1,1 +1,2 @@
-# IPFRC-Dataset
+# ZV-Datasets
+We provid four datasets for vibration control of the ZV input shaper. Each dataset includes 500 sampling points, collected from two platforms, i.e., a vertical flexible beam with single-axis motion: SVB-1 and SVB-2, and a suspended flexible beam with dual-axis: DSB-1 and DSB-2. In these datasets, "freq" and "zeta" are system parameters representing undamped natural frequency and damping ratio, respectively, and "Y-acceleration" is the absolute value of the maximum acceleration on the Y axis at the end of the flexible beam.
